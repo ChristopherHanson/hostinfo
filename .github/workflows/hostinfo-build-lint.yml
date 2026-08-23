@@ -1,4 +1,4 @@
-name: Host Info Server Build Automation v2
+name: Host Info Server Build, Lint
 
 on:
   push:
